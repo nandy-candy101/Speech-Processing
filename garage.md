@@ -26,5 +26,6 @@
 
 > [MFCC Simplified explanation](https://medium.com/@tanveer9812/mfccs-made-easy-7ef383006040)
 
+> [MFCC Implementation](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 
 
