@@ -28,4 +28,6 @@
 
 > [MFCC Implementation](https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 
+> [XPhoneBERT - Multilingual Phoneme Recogniser](https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model)
 
+> 
