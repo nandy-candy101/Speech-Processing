@@ -30,4 +30,4 @@
 
 > [XPhoneBERT - Multilingual Phoneme Recogniser](https://paperswithcode.com/paper/xphonebert-a-pre-trained-multilingual-model)
 
-> 
+> [FEATURE EXTRACTION FULL](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-021-00763-1)
